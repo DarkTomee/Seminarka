@@ -26,8 +26,9 @@ Použití GUI s využitím komponent JTable, JMenuBar a JToolBar při dodržení
 
 /**
  *
- * @author Tomáš
+ * @author Tomáš Nechanický
  */
+
 public class SeminarkaAppOkno extends javax.swing.JFrame {
     private InventarService inventarService = null;
     private DataManager dm = null;
